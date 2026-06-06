@@ -17,3 +17,8 @@ From the project root directory:
 ```bash
 java -jar target/ads-dental-surgeries-1.0.jar
 ```
+Github repository link:
+https://github.com/nidajavedse/ADS.git
+
+Dockerhub Repository link:
+https://hub.docker.com/repository/docker/nidajavedse/ads-app/general
